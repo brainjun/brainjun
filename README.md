@@ -4,6 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brainjun&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yasal)](https://solved.ac/yasal/)
+<br/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yasal&theme=cold)
+<img src="http:/mazandi.herokuapp.com/api?handle=yasal&theme=cold"/>
 
 
 # skill ♦️
